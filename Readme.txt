@@ -40,4 +40,6 @@ Resources Consulted:
 - https://www.w3schools.com: To refresh on a few concepts and learn new ones required for the project.
 - https://www.stackoverflow.hcom: for questions I had during the course of the project.
 - https://getbootstrap.com/docs/4.5
+link to the github repository:
+https://github.com/kojusola/Devcamp-Project.git
  
